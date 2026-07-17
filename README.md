@@ -1,1 +1,3 @@
-React Marathon 2026 is my 60-day summer coding challenge where I'm building full-stack applications with React, Node.js, and MongoDB. This repository contains all the projects I built during this journey
+# 🚀 React Marathon 2026
+
+> A 60-day full-stack development journey building real-world applications with React, Node.js, and MongoDB.
