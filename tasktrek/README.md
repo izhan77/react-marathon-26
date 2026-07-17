@@ -84,5 +84,5 @@ I built TaskFlow to master React fundamentals and implement complex user interac
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/taskflow.git
-cd taskflow
+git clone https://github.com/izhan77/react-marathon-26.git
+cd tasktrek
