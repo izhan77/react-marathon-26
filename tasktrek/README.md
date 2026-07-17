@@ -2,7 +2,7 @@
 
 > A modern, interactive task management application built with React that allows you to organize your workflow with intuitive drag-and-drop functionality.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-4CAF50?style=for-the-badge&logo=vercel)](https://your-app-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-4CAF50?style=for-the-badge&logo=vercel)](https://task-trek-kappa.vercel.app)
 
 ---
 
@@ -62,13 +62,13 @@ I built TaskFlow to master React fundamentals and implement complex user interac
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard](<img width="1916" height="902" alt="Image" src="https://github.com/user-attachments/assets/ddab4b7c-c5d5-451d-833a-87a345103046" />)
 
 ### Drag and Drop in Action
-![Drag and Drop](screenshots/drag-drop.png)
+![Drag and Drop](<img width="1912" height="896" alt="Image" src="https://github.com/user-attachments/assets/3acf9f54-482d-43cc-8746-9dd3d12f6e29" />)
 
 ### Task Creation
-![Task Creation](screenshots/create-task.png)
+![Task Creation](<img width="1907" height="900" alt="Image" src="https://github.com/user-attachments/assets/320c8abe-6904-4ee0-bf4b-487436cfa848" />)
 
 ---
 
