@@ -1,4 +1,5 @@
 import React from "react";
+import { Route, Routes } from "react-router-dom";
 
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
@@ -12,9 +13,22 @@ const App = () => {
     <div className="app">
       <Navbar />
 
-      <MovieList title="popular" name="Popular" emoji={Fire} />
-      <MovieList title="top_rated" name="Top Rated" emoji={Star} />
-      <MovieList title="upcoming" name="Upcoming" emoji={Party} />
+      <Routes>
+        <Route
+          path="/"
+          element={<MovieList title="popular" name="Popular" emoji={Fire} />}
+        />
+        <Route
+          path="/top_rated"
+          element={
+            <MovieList title="top_rated" name="Top Rated" emoji={Star} />
+          }
+        />
+        <Route
+          path="/upcoming"
+          element={<MovieList title="upcoming" name="Upcoming" emoji={Party} />}
+        />
+      </Routes>
     </div>
   );
 };

@@ -17,7 +17,7 @@ const MovieList = ({ title, name, emoji }) => {
 
   useEffect(() => {
     fetchMovies();
-  }, []);
+  }, [title]);
 
   useEffect(() => {
     const sortedMovies = _.orderBy(filteredMoviesData, [sort.by], [sort.order]);
