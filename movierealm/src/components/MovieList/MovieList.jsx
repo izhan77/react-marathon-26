@@ -43,7 +43,7 @@ const MovieList = ({ title, name, emoji }) => {
   const fetchMovies = async () => {
     try {
       const response = await fetch(
-        `https://api.themoviedb.org/3/movie/${title}?api_key=4707683942d620e0880a6236918f9175`,
+        `https://api.themoviedb.org/3/movie/${title}?api_key=${import.meta.env.VITE_API_KEY}`,
       );
 
       const data = await response.json();
