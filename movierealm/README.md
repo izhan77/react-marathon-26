@@ -2,8 +2,7 @@
 
 > A modern, responsive movie discovery app built with React that lets you explore popular, top-rated, and upcoming movies with powerful filtering and sorting features.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-4CAF50?style=for-the-badge&logo=vercel)](https://movierealm.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/izhan77/react-marathon-26)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-4CAF50?style=for-the-badge&logo=vercel)](https://task-trek-kappa.vercel.app)
 
 ---
 
@@ -87,7 +86,7 @@ I built MovieRealm to master React concepts including React Router for navigatio
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/react-marathon-26.git
+git clone https://github.com/izhan77/react-marathon-26.git
 cd react-marathon-26/movierealm
 ```
 
