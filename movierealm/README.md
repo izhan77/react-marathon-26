@@ -2,7 +2,7 @@
 
 > A modern, responsive movie discovery app built with React that lets you explore popular, top-rated, and upcoming movies with powerful filtering and sorting features.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-4CAF50?style=for-the-badge&logo=vercel)](https://task-trek-kappa.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_App-4CAF50?style=for-the-badge&logo=vercel)](https://movierealm.vercel.app)
 
 ---
 
@@ -63,13 +63,13 @@ I built MovieRealm to master React concepts including React Router for navigatio
 ## 📸 Screenshots
 
 ### Home Page - Popular Movies
-<img width="1916" height="902" alt="Popular Movies" src="screenshots/popular.png" />
+<img width="1892" height="892" alt="Image" src="https://github.com/user-attachments/assets/f5b8315c-d89d-43c2-b9a1-6b62f20ec131" />
 
 ### Top Rated Movies
-<img width="1916" height="902" alt="Top Rated Movies" src="screenshots/top-rated.png" />
+<img width="1892" height="892" alt="Image" src="https://github.com/user-attachments/assets/d1ddf922-6296-4f66-bd1c-5a0b1cffdf58" />
 
 ### Upcoming Movies
-<img width="1916" height="902" alt="Upcoming Movies" src="screenshots/upcoming.png" />
+<img width="1887" height="886" alt="Image" src="https://github.com/user-attachments/assets/3f8408d8-1246-4260-af75-75d0a709cefe" />
 
 ---
 
